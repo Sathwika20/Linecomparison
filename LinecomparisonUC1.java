@@ -8,7 +8,7 @@ public class LinecomparisonUC1 {
   double y2= Math.floor(Math.random() * 10);
   double distance;
 
-   distance = Math.floor(Math.sqrt((x2-y1)*(x2-y1)) + ((y2-y1)*(y>
+   distance = Math.floor(Math.sqrt((x2-y1)*(x2-y1)) + ((y2-y1)*(y2-y1));
    System.out.println("distance =" +distance);
   }
 }
