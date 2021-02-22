@@ -15,7 +15,6 @@ public class LinecomparisonUC2 {
    System.out.println("length is =" +length2);
 
    System.out.println(length1 == length2);
-   System.out.println(length1 >= length2);
-   System.out.println(length1 <= length2);
+
   }
 }
